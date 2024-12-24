@@ -1,3 +1,8 @@
+
+<<<<<<< HEAD
+Main-grenens version av texten.
 it was the best of times, it was the worst time.
-Test to see if branch is working.
-New branch. v2
+Alien-plot-grenens version av texten.
+=======
+Alien-plot-grenens version av texten.
+>>>>>>> alien-plot

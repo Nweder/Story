@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 lets see if it will work in github.
+lets see if it will work in github. Chapter4, lets give it a try
+=======
+Chapter4, lets give it a try
+>>>>>>> alien-plot
